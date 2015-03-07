@@ -1,2 +1,3 @@
-# docker
-Dockerfiles and other Docker related stuff
+# Docker
+
+Dockerfiles and other Docker related stuff.
