@@ -19,4 +19,4 @@ Note the parts of the command that relate to the Gradle data volume container:
 Of course your container should have Java installed as it is a requirement to run Gradle.
 
 See the blog post for further explanation:
-http://www.davidwong.com.au/blog/....
+http://www.davidwong.com.au/blog/2015/03/pluggable-tools-docker-data-containers/
